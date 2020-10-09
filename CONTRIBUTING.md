@@ -1,6 +1,6 @@
-# Contributing to Go
+# Contributing to Star
 
-Go is an open source project.
+Star is an open source project.
 
 It is the work of hundreds of contributors. We appreciate your help!
 
@@ -18,18 +18,18 @@ See the [security policy](https://golang.org/security) for details.
 The recommended way to file an issue is by running `go bug`.
 Otherwise, when filing an issue, make sure to answer these five questions:
 
-1. What version of Go are you using (`go version`)?
+1. What version of Star are you using (`go version`)?
 2. What operating system and processor architecture are you using?
 3. What did you do?
 4. What did you expect to see?
 5. What did you see instead?
 
-For change proposals, see [Proposing Changes To Go](https://github.com/golang/proposal/).
+For change proposals, see [Proposing Changes To Star](https://github.com/golang/proposal/).
 
 ## Contributing code
 
 Please read the [Contribution Guidelines](https://golang.org/doc/contribute.html) before sending patches.
 
-Unless otherwise noted, the Go source files are distributed under
+Unless otherwise noted, the Star source files are distributed under
 the BSD-style license found in the LICENSE file.
 
