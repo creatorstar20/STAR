@@ -8,6 +8,7 @@
 An open source interface for Star -- a protocol for decentralized exchange of Ethereum tokens.
 
 - Website: [mamrm.com](https://mamrm.com/)
+- Contract: https://etherscan.io/address/0x79b67f56c9fb3c10ccd2688089a8faf2b1d9fdbf
 
 # The STAR Programming Language
 
